@@ -39,7 +39,7 @@ rozprostřeni.
 Každý dokument lze číst samostatně. K dispozici je i úplná jednosvazková verze:
 [Politika jako třírozměrný prostor]([cesta]).
 
-Dokumenty jsou k dispozici v PDF (`/docs`) a jako editovatelné soubory Wordu (`/source`).
+Dokumenty jsou k dispozici v PDF.
 
 ## Stav práce
 

@@ -34,7 +34,7 @@ its voters are spread.
 | | Document | Question it answers |
 |---|---|---|
 | **A** | [Philosophical and social-science foundations](LEF_A_filozofie_a_spolecenskovedni_vychodiska.pdf) | *Why* three dimensions, what the axes mean, which hypotheses follow |
-| **B** | [Geometry and mathematics]([cesta]) | *How* positions and the shape of a society are computed |
+| **B** | [Geometry and mathematics]([path]) | *How* positions and the shape of a society are computed |
 | **C** | [Methodology, database and empirical testing](LEF_C1_metodologie.pdf) | *From what data* the model is computed and how it is tested |
 
 Each document can be read on its own. A complete single-volume version is also

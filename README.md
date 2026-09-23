@@ -37,9 +37,43 @@ its voters are spread.
 | **B** | [Geometry and mathematics](LEF_B_geometrie_a_matematika.pdf) | *How* positions and the shape of a society are computed |
 | **C** | [Methodology, database and empirical testing](LEF_C1_metodologie.pdf) | *From what data* the model is computed and how it is tested |
 
+## Documents
+
 ### A – Philosophical and social-science foundations
-- [PDF](LEF_A_filozofie_a_spolecenskovedni_vychodiska.pdf)
+**Files:**  
+- [PDF](LEF_A_filozofie_a_spolecenskovedni_vychodiska.pdf)  
 - [DOCX](LEF_A_filozofie_a_spolecenskovedni_vychodiska.docx)
+
+**Summary:**  
+Explains why the model requires three dimensions and defines the meaning of axes L, E, and F.  
+Develops the conceptual foundations, theoretical assumptions, and hypotheses about political space.  
+Clarifies why axis L (liberté) is procedural and fundamentally different from E and F.
+
+---
+
+### B – Geometry and mathematics
+**Files:**  
+- [PDF](LEF_B_geometrie_a_matematika.pdf)  
+- [DOCX](LEF_B_geometrie_a_matematika.docx)
+
+**Summary:**  
+Provides the mathematical framework for computing party positions and the shape of a society.  
+Defines the geometry of the L‑E‑F space, distance metrics, transformations, and aggregation rules.  
+Shows how societal leaning, reach, and dispersion are derived from individual or party-level data.
+
+---
+
+### C – Methodology, database and empirical testing
+**Files:**  
+- [PDF](LEF_C1_metodologie.pdf)  
+- [DOCX](LEF_C1_metodologie.docx)
+
+**Summary:**  
+Describes the measurement pipeline and reconstruction rules for CHES, MARPOR, and V‑Party datasets.  
+Documents the empirical validation strategy and known limitations (especially L–F discriminant validity).  
+Includes the demonstration database and outlines the proposed purpose-built measurement instrument.
+
+---
 
 Each document can be read on its own. A complete single-volume version is also
 available: [Politics as a three-dimensional space]([path]).

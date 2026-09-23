@@ -34,7 +34,7 @@ rozprostřeni.
 |---|---|---|
 | **A** | [Filozofie a společenskovědní východiska](LEF_A_filozofie_a_spolecenskovedni_vychodiska.pdf) | *Proč* tři dimenze, co osy znamenají a jaké hypotézy z toho plynou |
 | **B** | [Geometrie a matematika](LEF_B_geometrie_a_ matematika.pdf) | *Jak* se počítají pozice a tvar společnosti |
-| **C** | [Metodologie, databáze a empirické ověření]([cesta]) | *Z jakých dat* se model počítá a jak se testuje |
+| **C** | [Metodologie, databáze a empirické ověření](LEF_C1_metodologie.pdf) | *Z jakých dat* se model počítá a jak se testuje |
 
 Každý dokument lze číst samostatně. K dispozici je i úplná jednosvazková verze:
 [Politika jako třírozměrný prostor]([cesta]).

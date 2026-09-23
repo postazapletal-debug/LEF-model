@@ -40,7 +40,7 @@ its voters are spread.
 Each document can be read on its own. A complete single-volume version is also
 available: [Politics as a three-dimensional space]([path]).
 
-Documents are provided as PDF (`/docs`) and as editable Word files (`/source`).
+Documents are provided as PDF.
 
 ## Status
 

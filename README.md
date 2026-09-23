@@ -73,7 +73,7 @@ You may share and adapt the material, including commercially, provided you give 
 
 ## Contact
 
-[zapletal.jan@centrum.cz], [ORCID / personal page]
+zapletal.jan@centrum.cz
 
 ## Keywords
 

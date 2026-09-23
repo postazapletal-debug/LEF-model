@@ -32,7 +32,7 @@ rozprostřeni.
 
 | | Dokument | Na co odpovídá |
 |---|---|---|
-| **A** | [Filozofie a společenskovědní východiska]([cesta]) | *Proč* tři dimenze, co osy znamenají a jaké hypotézy z toho plynou |
+| **A** | [Filozofie a společenskovědní východiska](LEF_A_filozofie_a_spolecenskovedni_vychodiska.pdf) | *Proč* tři dimenze, co osy znamenají a jaké hypotézy z toho plynou |
 | **B** | [Geometrie a matematika]([cesta]) | *Jak* se počítají pozice a tvar společnosti |
 | **C** | [Metodologie, databáze a empirické ověření]([cesta]) | *Z jakých dat* se model počítá a jak se testuje |
 

@@ -2,6 +2,8 @@
 
 **A three-dimensional model of political space**
 
+(available only in Czech)
+
 [Česká verze](README.cs.md)
 
 ---

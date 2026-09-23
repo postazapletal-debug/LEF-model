@@ -36,6 +36,29 @@ rozprostřeni.
 | **B** | [Geometrie a matematika](LEF_B_geometrie_a_matematika.pdf). | *Jak* se počítají pozice a tvar společnosti |
 | **C** | [Metodologie, databáze a empirické ověření](LEF_C1_metodologie.pdf) | *Z jakých dat* se model počítá a jak se testuje |
 
+## Dokumenty
+
+### A – Filozofické a společenskovědní východiska
+**Soubory:**  
+- [PDF](LEF_A_filozofie_a_spolecenskovedni_vychodiska.pdf)  
+- [DOCX](LEF_A_filozofie_a_spolecenskovedni_vychodiska.docx)
+
+**Anotace:**  
+Vysvětluje, proč model potřebuje tři dimenze, a definuje význam os L, E a F.  
+Rozvíjí konceptuální základy, teoretické předpoklady a hypotézy o politickém prostoru.  
+Ukazuje, proč je osa L (liberté) procedurální a zásadně odlišná od os E a F.
+
+---
+
+### B – Geometrie a matematika
+**Soubory:**  
+- [PDF](LEF_B_geometrie_a_matematika.pdf)  
+- [DOCX](LEF_B_geometrie_a_matematika.docx)
+
+**Anotace:**  
+Předkládá matematický rámec pro výpočet pozic stran a tvaru společnosti.  
+Definuje geomet
+
 Každý dokument lze číst samostatně. K dispozici je i úplná jednosvazková verze:
 [Politika jako třírozměrný prostor]([cesta]).
 
@@ -60,7 +83,7 @@ epizod změn režimu, validační data z **ESS** a **WVS/EVS**. Tyto datasety zd
 
 ## Citace
 
-Zapletal, Jan. *Model L-E-F: Třírozměrný model politického prostoru.*. 2026. [DOI nebo URL]
+Zapletal, Jan. *Model L-E-F: Třírozměrný model politického prostoru.*. 2026. https://github.com/postazapletal-debug/LEF-model
 
 ## Licence
 

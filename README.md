@@ -37,6 +37,10 @@ its voters are spread.
 | **B** | [Geometry and mathematics](LEF_B_geometrie_a_matematika.pdf) | *How* positions and the shape of a society are computed |
 | **C** | [Methodology, database and empirical testing](LEF_C1_metodologie.pdf) | *From what data* the model is computed and how it is tested |
 
+### A – Philosophical and social-science foundations
+- [PDF](LEF_A_filozofie_a_spolecenskovedni_vychodiska.pdf)
+- [DOCX](LEF_A_filozofie_a_spolecenskovedni_vychodiska.docx)
+
 Each document can be read on its own. A complete single-volume version is also
 available: [Politics as a three-dimensional space]([path]).
 

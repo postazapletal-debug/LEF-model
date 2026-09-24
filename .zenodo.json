@@ -1,0 +1,23 @@
+json
+{
+  "title": "The L-E-F Model: A Three-Dimensional Model of Political Space",
+  "description": "A three-dimensional model of political space separating a procedural axis of non-domination (L) from substantive axes of economic equality (E) and cultural openness (F). Includes philosophical foundations, geometry and mathematics, and measurement methodology. Work in progress; results are preliminary.",
+  "creators": [
+    {
+      "name": "Zapletal, Jan",
+      "orcid": "https://orcid.org/0009-0001-8424-8438"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "access_right": "open",
+  "keywords": [
+    "political space",
+    "non-domination",
+    "procedural democracy",
+    "democratic backsliding",
+    "party positions",
+    "comparative politics"
+  ]
+}

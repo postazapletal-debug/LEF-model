@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as below."
+title: "The L-E-F Model: A Three-Dimensional Model of Political Space"
+abstract: "A three-dimensional model of political space separating a procedural axis of non-domination from substantive economic and cultural axes, with an explicit geometry, measurement methodology and testable hypotheses."
+type: dataset
+authors:
+  - family-names: "Zapletal"
+    given-names: "Jan"
+    orcid: "https://orcid.org/0009-0001-8424-8438"
+date-released: 2026-09-23
+version: "0.1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/postazapletal-debug/LEF-model"
+keywords:
+  - political space
+  - spatial models of politics
+  - non-domination
+  - procedural democracy
+  - democratic backsliding
+  - party positions
+  - comparative politics

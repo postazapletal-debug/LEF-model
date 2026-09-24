@@ -92,6 +92,15 @@ Results obtained so far are preliminary. Known limitations — most importantly 
 discriminant validity of axes L and F in expert-survey data — are documented explicitly
 in document C.
 
+## Use of AI tools
+
+The conception of the model, its theoretical foundations and all substantive
+decisions are the author's own. A large language model (Claude, Anthropic) was
+used in formalising the geometric and mathematical apparatus, in verifying claims
+against the literature and the source datasets, and in drafting the text. The full
+declaration is given at the end of each document. The author is responsible for
+every claim made, including the verification of each calculation and each citation.
+
 ## Data sources
 
 Party positions are reconstructed from **CHES**, **MARPOR/Manifesto Project** and

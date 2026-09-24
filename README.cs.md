@@ -74,6 +74,15 @@ je navržen, ale zatím nebyl sbírán.
 Dosavadní výsledky jsou předběžné. Známá omezení, především slabá rozlišitelnost os L a F
 v datech expertních šetření, jsou výslovně popsána v dokumentu C.
 
+## Využití nástrojů AI
+
+Koncepce modelu, jeho teoretická východiska a všechna zásadní rozhodnutí jsou
+autorské. Při formalizaci geometrického a matematického aparátu, při ověřování
+tvrzení proti literatuře a zdrojovým datům a při formulaci textu byl využíván
+jazykový model (Claude, Anthropic). Úplné znění prohlášení je na konci každého
+dokumentu. Autor nese odpovědnost za všechna tvrzení v textu, včetně ověření
+každého výpočtu a každé citace.
+
 ## Zdroje dat
 
 Pozice stran jsou rekonstruovány z datasetů **CHES**, **MARPOR** a **V-Party**, volební

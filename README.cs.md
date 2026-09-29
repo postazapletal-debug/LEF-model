@@ -94,7 +94,10 @@ epizod změn režimu, validační data z **ESS** a **WVS/EVS**. Tyto datasety zd
 
 ## Citace
 
-Zapletal, Jan. *Model L-E-F: Třírozměrný model politického prostoru.*. 2026. https://github.com/postazapletal-debug/LEF-model
+Zapletal, Jan (2026). *Model L-E-F: Třírozměrný model politického prostoru*.
+Zenodo. https://doi.org/10.5281/zenodo.23034027
+
+Toto DOI zastupuje všechny verze a vždy odkáže na nejnovější z nich.
 
 ## Licence
 

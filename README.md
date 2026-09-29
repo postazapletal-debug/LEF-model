@@ -4,17 +4,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23034027.svg)](https://doi.org/10.5281/zenodo.23034027)
 
-Abstract 
-Contemporary measures of party positions collapse two distinct things into one dimension: what a party wants to achieve, and whether it accepts the rules under which such questions are decided. The widely used GAL-TAN scale mixes cultural positions with attitudes towards the constraints on power, and thereby obscures the mechanism by which democracies erode.
-
-The L-E-F model separates them. It describes political space through three orthogonal axes: L (libertas), a procedural axis grounded in the republican concept of non-domination, measuring whether political competition is protected or suppressed; E (égalité), the economic axis; and F (fraternitas), the axis of cultural openness and closure. Only L is procedural; E and F are substantive.
-
-From this the model derives a geometry. Parties are positions in a sphere and distributions of voters around them; a society has a measurable shape described in three layers: the direction it leans in (salience and polarity of each axis), how far from the centre it reaches (depth), and how widely it is spread (covariance). Two summary indicators follow: an index of polarisation and an authoritarian threshold, which expresses the claim that substantive extremity exerts downward pressure on the procedural axis.
-
-The model is operationalised on existing data (CHES, MARPOR, V-Party, V-Dem) and yields twenty-one testable hypotheses. This paper summarises the conceptual foundations, the formal apparatus and the measurement methodology, and states openly which results are preliminary and which claims remain untested.
-
-
-
 (available only in Czech)
 
 [Česká verze](README.cs.md)
@@ -32,15 +21,36 @@ procedural axis from two substantive ones:
 | **E** | *égalité* | market, right | redistributive, left |
 | **F** | *fraternité* | culturally closed | culturally open |
 
-The central claim is that the axis **L** is of a different kind than the other two.
-It does not say *what* should be achieved but *how* decisions are made, i.e. whether
-political competition is protected or suppressed. Conflating this procedural dimension
-with cultural positions (as the widely used GAL-TAN scale does) hides the mechanism
-by which democracies decay.
+Contemporary measures of party positions collapse two distinct things into one
+dimension: what a party wants to achieve, and whether it accepts the rules under
+which such questions are decided. The widely used GAL-TAN scale mixes cultural
+positions with attitudes towards the constraints on power, and thereby obscures
+the mechanism by which democracies erode.
 
-Every political party has a position in this space, and every society has a measurable
-*shape*: the direction it leans in, how far from the centre it reaches, and how widely
-its voters are spread.
+The L-E-F model separates them. It describes political space through three
+orthogonal axes: **L** (*libertas*), a procedural axis grounded in the republican
+concept of non-domination, measuring whether political competition is protected or
+suppressed; **E** (*égalité*), the economic axis; and **F** (*fraternitas*), the
+axis of cultural openness and closure. Only L is procedural: it does not say *what*
+should be achieved but *how* decisions are made. E and F are substantive, and the
+model takes no position on either.
+
+From this the model derives a geometry. Parties are positions in a sphere and
+distributions of voters around them; a society has a measurable *shape*, described
+in three layers: the direction it leans in (the salience and polarity of each axis),
+how far from the centre it reaches (depth), and how widely its voters are spread
+(covariance). Two summary indicators follow: an index of polarisation, and an
+authoritarian threshold expressing the claim that substantive extremity exerts
+downward pressure on the procedural axis.
+
+The unit of the model is the distribution of values among voters, weighted by votes,
+not the distribution of seats. It asks not how power is divided, but what a society
+holds.
+
+The model is operationalised on existing data (CHES, MARPOR, V-Party, V-Dem) and
+yields twenty-one testable hypotheses. The three documents below set out the
+conceptual foundations, the formal apparatus and the measurement methodology, and
+state openly which results are preliminary and which claims remain untested.
 
 ## Documents
 

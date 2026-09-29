@@ -113,7 +113,10 @@ derived values are.
 
 ## Citation
 
-Zapletal, Jan. *The L-E-F Model: A three-dimensional model of political space*. 2026. https://github.com/postazapletal-debug/LEF-model
+Zapletal, Jan (2026). *The L-E-F Model: A Three-Dimensional Model of Political Space*.
+Zenodo. https://doi.org/10.5281/zenodo.23034027
+
+This DOI represents all versions and always resolves to the latest one.
 
 ## Licence
 

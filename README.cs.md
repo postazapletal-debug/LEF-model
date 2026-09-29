@@ -2,6 +2,8 @@
 
 **Třírozměrný model politického prostoru**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23034027.svg)](https://doi.org/10.5281/zenodo.23034027)
+
 (dostupné pouze česky)
 
 [English version](README.md)

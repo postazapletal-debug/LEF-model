@@ -1,6 +1,7 @@
 # The L-E-F Model
 
 **A three-dimensional model of political space**
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23034027.svg)](https://doi.org/10.5281/zenodo.23034027)
 
 (available only in Czech)

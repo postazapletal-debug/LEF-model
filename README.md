@@ -28,9 +28,9 @@ positions with attitudes towards the constraints on power, and thereby obscures
 the mechanism by which democracies erode.
 
 The L-E-F model separates them. It describes political space through three
-orthogonal axes: **L** (*libertas*), a procedural axis grounded in the republican
+orthogonal axes: **L** (*liberté*), a procedural axis grounded in the republican
 concept of non-domination, measuring whether political competition is protected or
-suppressed; **E** (*égalité*), the economic axis; and **F** (*fraternitas*), the
+suppressed; **E** (*égalité*), the economic axis; and **F** (*fraternité*), the
 axis of cultural openness and closure. Only L is procedural: it does not say *what*
 should be achieved but *how* decisions are made. E and F are substantive, and the
 model takes no position on either.
